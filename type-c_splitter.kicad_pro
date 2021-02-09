@@ -378,7 +378,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "type-c_splitter.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -414,7 +414,7 @@
   },
   "sheets": [
     [
-      "b2375fe0-f5e3-4336-b5ad-549dc6d185e2",
+      "d86f4aa1-d5f4-4b08-a86e-1a87855813d8",
       ""
     ]
   ],
